@@ -7,7 +7,7 @@
 - 🌍 Based in Vietnam
 - 🧠 5+ years building production web applications
 - ⚙️ Specialized in **Next.js, React, Node.js, AI Agents, and Web3**
-- 📈 Built systems serving **14,000+ merchants**
+- 📈 Built systems serving **14,000+ Shopify merchants**
 - 🤖 Automated workflows reducing **90% operational overhead**
 
 ---
@@ -22,6 +22,7 @@ My work spans across:
 - **Web3 applications**
 - **High-scale SaaS platforms**
 - **Developer tooling and performance optimization**
+- **Shopify Ecommerce**
 
 I enjoy designing **agentic workflows, distributed systems, and scalable frontend architectures**.
 
