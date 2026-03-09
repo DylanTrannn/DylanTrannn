@@ -29,57 +29,10 @@ I enjoy designing **agentic workflows, distributed systems, and scalable fronten
 
 # ⚡ Tech Stack
 
-### Languages
-- TypeScript
-- JavaScript
-- Solidity
-
-### Frontend
-- React
-- Next.js
-- TanStack Query
-- Zustand
-- Redux
-- TailwindCSS
-- Shadcn UI
-
-### Backend
-- Node.js
-- Express
-- Hono
-- PostgreSQL
-- MongoDB
-- Drizzle ORM
-
-### AI / Agent Systems
-- LangChain
-- LangGraph
-- LangSmith
-- Vercel AI SDK
-- Mastra
-- OpenRouter
-- Exa
-- Tavily
-
-
-### Web3
-- Wagmi
-- Viem
-- TypeChain
-- Solidity
-- Privy
-- Ponder Indexer
-
-### Dev Tools
-- Turborepo
-- Webpack
-- Rspack
-- SWC
-- Vite
-- Rsdoctor
-
-### Cloud / Hosting
-- Vercel
-- Netlify
-- AWS
-- VPS
+**Frontend:** React, Next.js, Tailwind CSS, Shadcn, Chakra UI, Zustand, Redux, TanStack, Vite, Webpack  
+**Backend:** Node.js, Hono, Express, REST APIs, GraphQL, WebSocket, SSE  
+**Databases:** PostgreSQL, PgVector, MongoDB, Redis, Prisma, Drizzle  
+**AI:** LangChain, LangGraph, LangSmith, Mastra, Agentic Workflows, AI SDK, OpenRouter, Exa, Tavily  
+**Web3:** Solidity, EVM, Wagmi, Viem, Typechain, Privy, Ponder  
+**Infrastructure:** AWS, Docker, Vercel, CI/CD, VPS
+**Tooling:** Rspack, RsDoctor, TurboRepo, Lighthouse - Core Web Vitals
